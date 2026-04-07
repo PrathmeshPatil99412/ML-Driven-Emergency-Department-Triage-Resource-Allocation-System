@@ -11,8 +11,11 @@ It predicts patient severity and optimizes hospital resource allocation using sc
 - Predict Emergency Severity Index (ESI) using ML models  
 - Design a **priority-based scheduling algorithm**  
 - Simulate patient flow under constrained hospital resources  
-- Minimize waiting time and improve ICU utilization  
+- Minimize waiting time and improve ICU utilization
 
+--- 
+## Workflow Diagram
+![image.alt](https://github.com/PrathmeshPatil99412/ML-Driven-Emergency-Department-Triage-Resource-Allocation-System/blob/main/workflow.png)
 ---
 
 ##  Methodology
@@ -35,7 +38,9 @@ It predicts patient severity and optimizes hospital resource allocation using sc
 - Data leakage checks  
 
 ---
-
+## Resource Allocation Engine Workflow
+![image](https://github.com/PrathmeshPatil99412/ML-Driven-Emergency-Department-Triage-Resource-Allocation-System/blob/main/Scheduling_engine_workflow.png)
+---
 ## Scheduling Algorithm
 
 A hybrid scheduling approach combining:
