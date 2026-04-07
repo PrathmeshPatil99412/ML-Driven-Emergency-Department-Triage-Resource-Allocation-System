@@ -68,13 +68,5 @@ A **discrete-time simulation** was developed to model:
 
 ##  Files
 - `notebooks/main.ipynb` → Full implementation  
-- `paper.pdf` → Research paper with formulas and analysis  
-- `requirements.txt` → Dependencies  
-
+- `scheduling_logic.pdf` → Entire pdf explaining the scheduling logic 
 ---
-
-##  How to Run
-
-1. Clone the repository  
-```bash
-git clone <your_repo_link>
